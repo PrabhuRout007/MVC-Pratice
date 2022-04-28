@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Praticeclass.Models.Employee>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>
+                        @employee.Id
+                    </td>
+                    <td>
+                        @employee.Name
+                    </td>
+                    <td>
+                        @employee.Department
+                    </td>
+                    <td>
+                        <a href="@Url.Action("details", "home", new { i = employee.Id })">View</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div>
+        <a href="@Url.Action("Create", "home")">Create</a>
+    </div>
+
+</body>
+</html>

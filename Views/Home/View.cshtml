@@ -1,0 +1,62 @@
+﻿@using Praticeclass.ViewModels
+@model EmployeeEditViewModel
+
+@{
+    ViewBag.Title = "Edit Employee";
+    var photoPath = "~/images/" + (Model.ExistingPhotoPath ?? "noimage.jpg");
+}
+
+<form asp-controller="home" asp-action="edit" method="post" >
+    <div>
+    </div>
+    <input hidden asp-for="Id" />
+    <input hidden asp-for="ExistingPhotoPath" />
+
+
+    <div>
+        <label asp-for="Name"></label>
+        <div>
+            <input asp-for="Name" placeholder="Name">
+            <span asp-validation-for="Name"></span>
+        </div>
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <div class="col-sm-10">
+            <input asp-for="Email" placeholder="Email">
+            <span asp-validation-for="Email" ></span>
+        </div>
+    </div>
+
+    <div>
+        <label asp-for="Department"></label>
+        <div>
+            <select asp-for="Department"
+                    asp-items="Html.GetEnumSelectList<Dept>()">
+                <option value="">Please Select</option>
+            </select>
+            <span asp-validation-for="Department"></span>
+        </div>
+    </div>
+
+    <div>
+        <label asp-for="Photo"></label>
+        <div>
+            <div>
+                <input asp-for="Photo">
+                <label>Click here to change photo</label>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <img class="imageThumbnail" src="@photoPath" asp-append-version="true" />
+    </div>
+
+    <div>
+        <div>
+            <button type="submit">Update</button>
+            <a asp-action="index" asp-controller="home">Cancel</a>
+        </div>
+    </div>
+</form>

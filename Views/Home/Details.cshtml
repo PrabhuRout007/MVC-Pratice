@@ -1,0 +1,36 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model Praticeclass.ViewModels.HomeDetailsViewModel
+
+@{
+
+}
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <div>
+            <div>
+                <div>
+                    <h1>@Model.Employee.Name</h1>
+                </div>
+
+                <div>
+                    <img src="~/image/logo.png" />
+
+                    <h4>Employee ID : @Model.Employee.Id</h4>
+                    <h4>Email : @Model.Employee.Email</h4>
+                    <h4>Department : @Model.Employee.Department</h4>
+
+                </div>
+                <div>
+                    <a href="@Url.Action("index", "home", new { i = Model.Employee.Id })">View</a>
+                    <a href="@Url.Action("edit", "home", new { i = Model.Employee.Id })">Edit</a>
+                    <a href="@Url.Action("Create", "home")">Create</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

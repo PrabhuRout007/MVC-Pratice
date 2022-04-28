@@ -1,0 +1,139 @@
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.AssemblyInfoInputs.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.AssemblyInfo.cs
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.csproj.CoreCompileInputs.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorAssemblyInfo.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorAssemblyInfo.cs
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\appsettings.json
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.exe
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.deps.json
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.runtimeconfig.json
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.runtimeconfig.dev.json
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\ref\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.Views.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.Views.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Humanizer.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\staticwebassets\Praticeclass.StaticWebAssets.Manifest.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\staticwebassets\Praticeclass.StaticWebAssets.xml
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\scopedcss\bundle\Praticeclass.styles.css
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.TagHelpers.input.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.TagHelpers.output.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorCoreGenerate.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorTargetAssemblyInfo.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorTargetAssemblyInfo.cs
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.Views.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.csproj.CopyComplete
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\ref\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.pdb
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.genruntimeconfig.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\libman.json
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.csproj.AssemblyReference.cache
+C:\Users\prabh\OneDrive\Desktop\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\appsettings.json
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\libman.json
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.StaticWebAssets.xml
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.exe
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.deps.json
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.runtimeconfig.json
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.runtimeconfig.dev.json
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\ref\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.Views.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Praticeclass.Views.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Humanizer.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.csproj.AssemblyReference.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.AssemblyInfoInputs.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.AssemblyInfo.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.csproj.CoreCompileInputs.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorAssemblyInfo.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorAssemblyInfo.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\scopedcss\bundle\Praticeclass.styles.css
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\staticwebassets\Praticeclass.StaticWebAssets.Manifest.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.TagHelpers.input.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.TagHelpers.output.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorCoreGenerate.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorTargetAssemblyInfo.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.RazorTargetAssemblyInfo.cs
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.Views.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.csproj.CopyComplete
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\ref\Praticeclass.dll
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.pdb
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Praticeclass.genruntimeconfig.cache
+C:\Users\prabh\OneDrive\Desktop\Dot Net\.NET Core\Praticeclass\Praticeclass\obj\Debug\net5.0\Razor\Views\Home\View.cshtml.g.cs
